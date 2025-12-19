@@ -1,0 +1,7 @@
+{
+  "name": "YouTube MP3 Pro Downloader",
+  "description": "A high-performance, AI-powered interface for searching and simulating the conversion of YouTube videos to high-quality MP3 audio.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
